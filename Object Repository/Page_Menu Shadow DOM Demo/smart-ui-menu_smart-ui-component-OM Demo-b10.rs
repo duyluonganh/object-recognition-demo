@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>smart-ui-menu_smart-ui-component-OM Demo-b10</name>
+   <tag></tag>
+   <elementGuidId>f8e99035-bf7f-49b6-ab6a-217686dc0407</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>smart-ui-menu.smart-ui-component</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//smart-ui-menu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>smart-ui-menu</value>
+      <webElementGuid>123a795e-3a64-473a-8f50-937bd6d22442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>smart-ui-component</value>
+      <webElementGuid>1213d2e3-aa43-4a51-8466-caca5865bf53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;viewport&quot;]/smart-ui-menu[@class=&quot;smart-ui-component&quot;]</value>
+      <webElementGuid>5d64ea4c-dac6-453a-a983-e4ba45bef481</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//smart-ui-menu</value>
+      <webElementGuid>0d8bfc2f-912a-4ed6-9e22-d9de6755715a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
